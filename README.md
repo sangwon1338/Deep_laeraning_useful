@@ -6,3 +6,6 @@
 
 - Kakao recom
 - link url : https://github.com/kakao/recoteam
+
+- Stanford NLP 
+- link url : https://nlp.stanford.edu/
