@@ -9,3 +9,7 @@
 
 - Stanford NLP 
 - link url : https://nlp.stanford.edu/
+
+- Knowledge graph seminar
+- link url : https://web.stanford.edu/~vinayc/kg/notes/
+- video url : https://youtu.be/FRcF6sh8sI0
